@@ -1,13 +1,10 @@
 ## RedeBrasil IRC Daemon
-========================
+===========
 Core Developer of this release:
   Diego Agudo  (XOOM)  diego@agudo.eti.br
 
 Testers
    andrelmp, legos, renan and others.
-
-
-RedeBrasil IRC Daemon (no longer maintained)
 
 The RedeBrasil IRC Daemon integrates some of the most advanced features needed to manage an IRC network into the stable core from Plexus IRCD.
 It is fully integrated with Anope Services, providing a great platform for anyone starting an IRC network.
