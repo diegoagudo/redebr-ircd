@@ -1,7 +1,7 @@
 ## RedeBrasil IRC Daemon
 ===========
 Core Developer of this release:
-  Diego Agudo  (XOOM)  diego@agudo.eti.br
+  Diego Agudo  aka  XOOM
 
 Testers
    andrelmp, legos, renan and others.
